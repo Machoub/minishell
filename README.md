@@ -88,9 +88,7 @@ Supports interactive input with real-time updates and line editing (via readline
 
 
 ## 👨‍💻 Author
-**Mehdi Adel Achouba and Gino Helio Doubremelle**  
-Login: machouba  
-Login: gdoubrem  
-GitHub: https://github.com/Machoub  
-GitHub: https://github.com/GinoDbm  
+
+- [machouba](https://github.com/Machoub) 
+- [gdoubrem](https://github.com/GinoDbm) 
 42 Paris  
