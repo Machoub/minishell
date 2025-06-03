@@ -66,28 +66,22 @@ Supports interactive input with real-time updates and line editing (via readline
 
 
 🛠️ Constraints
-No fork() inside builtins like cd
 
+- No fork() inside builtins like cd
 - No memory leaks allowed
-
 - No external parser (like bash or sh)
-
 - Only authorized functions per subject
 
 ---
 
 
 ## 🧠 What I Learned
+
 - Writing a shell parser and managing syntax trees
-
 - Implementing a pipeline executor with proper fork/exec
-
 - Handling environment state with envp
-
 - Signal management (SIGINT, SIGQUIT, SIGTERM)
-
 - Building a clean architecture with modular files
-
 - Debugging complex I/O and subprocesses
 
 ---
