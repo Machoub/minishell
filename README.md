@@ -96,7 +96,7 @@ No fork() inside builtins like cd
 ## 👨‍💻 Author
 **Mehdi Adel Achouba and Gino Helio Doubremelle**  
 Login: machouba  
-Login: gdoubrem 
+Login: gdoubrem  
 GitHub: https://github.com/Machoub  
 GitHub: https://github.com/GinoDbm  
 42 Paris  
