@@ -1,0 +1,23 @@
+# ─── Executables ─────────────────────────────────────────────
+minishell
+
+# ─── Object files ────────────────────────────────────────────
+*.o
+
+# ─── Libft compiled archive ─────────────────────────────────
+libft/libft.a
+
+# ─── Debug / core dumps ─────────────────────────────────────
+*.dSYM/
+core
+
+# ─── Editor / IDE configs ───────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── macOS / Linux system trash ─────────────────────────────
+.DS_Store
+__pycache__/
