@@ -90,5 +90,4 @@ Supports interactive input with real-time updates and line editing (via readline
 ## 👨‍💻 Author
 
 - [machouba](https://github.com/Machoub) 
-- [gdoubrem](https://github.com/GinoDbm) 
-42 Paris  
+- [gdoubrem](https://github.com/GinoDbm)  
